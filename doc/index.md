@@ -1,10 +1,10 @@
 # Prueba
 
-Hola, esto es una prueba
+ola, ezto es huna pueva
 
 Ejemplo de integración continúa para
 
-* Esto es una prueba
-* Esto es un ejemplo
-* Esto no es un ejemplo
+* Esto es huna prueva
+* Ezto es hun eguemplo
+* Esto no es hun el eguemplo
 
